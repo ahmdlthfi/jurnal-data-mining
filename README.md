@@ -4,7 +4,7 @@ Repository ini berisi kode analisis klasterisasi pembiayaan UMKM dan sektor ekon
 
 ## Isi Repositori
 - `kmeans_umkm.ipynb`: Notebook Jupyter berisi analisis KMeans.
-- `data_umkm.csv`: Dataset pembiayaan UMKM dan usaha besar.
+- `data_umkm.csv`: Dataset UMKM dan usaha besar.
 - `sektor_ekonomi`: Dataset sektor ekonomi
 - `README.md`: Deskripsi repositori dan struktur file.
 
